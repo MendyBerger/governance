@@ -145,7 +145,7 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > A clear versioning scheme is necessary for end-users. We desire consistency across projects and so the Bytecode Alliance has adopted semantic versioning as a required best practice.
 
-We currenlty have only one release, but we sure plan to stick to samantic versioning, and have that built into our release CI.
+We currently have only one release, but we sure plan to stick to samantic versioning, and have that built into our release CI.
 
 ### Secrets Management
 
