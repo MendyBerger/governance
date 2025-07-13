@@ -22,7 +22,7 @@ This project includes both webidl2wit Rust library, and webidl2wit-cli.
 >
 > The Bytecode Alliance is a group with a specific mission, and we therefore will only sponsor projects that are in alignment with and further that mission. For example, project sponsorship is untenable if the project undermines sandboxing, security, or standardization efforts.
 
-Given that webidl2wit is already used in wasi:webgpu, as well as in browser.wit - which is not wasi but uses the wasm and the component-model - I think it would be a great fit for the BA
+Given that webidl2wit is already used in wasi:webgpu, as well as in browser.wit - which is not wasi but uses wasm and the component-model - I think it would be a great fit for the BA
 
 ### Code Review
 
