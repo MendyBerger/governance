@@ -34,7 +34,7 @@ Given that webidl2wit is already used in wasi:webgpu, as well as in browser.wit 
 >
 > Code reviews have a demonstrable impact on the quality of source code by catching bugs early, determining the best possible implementation, and fostering trust within the community. Timely responses let contributors know that their work is valued and encourages further contribution.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+This project will adopt code reviews going forward.
 
 ### Code of Conduct
 
@@ -73,7 +73,7 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > In pursuing our mission and vision, the Bytecode Alliance follows a set of operational principles aimed at keeping us aligned on three key aspects: what we want to create, how we want to work together, and how we want to work with others.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+The maintainers of this project are committed to the Bytecode Alliance Operational Principles.
 
 ### Licensing Compatible with the Bytecode Alliance
 
@@ -101,7 +101,6 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 > We strive to build an open community and a legally-compatible software ecosystem.
 
 https://github.com/wasi-gfx/webidl2wit/blob/main/LICENSE
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
 
 ### README
 
