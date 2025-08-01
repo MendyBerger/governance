@@ -45,7 +45,7 @@ This project will adopt code reviews going forward.
 >
 > Having a code of conduct is crucial for creating a positive and respectful environment in any organization, community, or group. It serves as a set of guidelines that outline expected behavior and ethical standards for all members involved.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+[github.com/wasi-gfx/webidl2wit/blob/main/CODE_OF_CONDUCT.md](https://github.com/wasi-gfx/webidl2wit/blob/main/CODE_OF_CONDUCT.md)
 
 ### Continuous Integration Testing
 
@@ -55,7 +55,7 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > Implementing CI offers several benefits to software projects, helping ensure correctness and quality, making it an essential practice for modern software development.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+Testing in CI at [actions/workflows/rust.yml](https://github.com/wasi-gfx/webidl2wit/actions/workflows/rust.yml)
 
 ### Contributor Documentation
 
@@ -65,7 +65,7 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > A `CONTRIBUTING.md` serves as a guide for potential contributors, outlining the expectations for individuals who wish to contribute to the project. The Bytecode Alliance is a community-driven software foundation and documents like `CONTRIBUTING.md` are necessary for fostering community contributions.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+See our [CONTRIBUTING.md](https://github.com/wasi-gfx/webidl2wit/blob/main/CONTRIBUTING.md)
 
 ### Following the Bytecode Alliance Operational Principles
 
@@ -112,7 +112,7 @@ https://github.com/wasi-gfx/webidl2wit/blob/main/LICENSE
 >
 > The most important information about the project should be "above the fold". Projects should identify themselves as Bytecode Alliance projects so that, with time, people associate the Bytecode Alliance with quality projects that they can rely on.
 
-[github.com/wasi-gfx/webidl2wit/blob/main/README.md](https://github.com/wasi-gfx/webidl2wit/blob/main/README.md) has the project name and a brief description. We'll add the BA link once accepted to the BA.
+Our [README.md](https://github.com/wasi-gfx/webidl2wit/blob/main/README.md) has the project name and a brief description. We'll add the BA link once accepted to the BA.
 
 ### Release Process
 
@@ -136,7 +136,7 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > Bytecode Alliance projects must be a secure foundation for others to build upon. Transparency and a managed security release process is key to being this foundation.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+See [SECURITY.md](https://github.com/wasi-gfx/webidl2wit/blob/main/SECURITY.md)
 
 ### Semantic Versioning
 
@@ -169,7 +169,7 @@ TODO: argument that this requirement is fulfilled and supporting evidence (such 
 >
 > Our mission of developing runtime environments and language toolchains where security, efficiency, and modularity can all coexist necessarily means that we have performed our due dilligence to mitigate software supply chain attacks.
 
-TODO: argument that this requirement is fulfilled and supporting evidence (such as links to code, documentation, issues, and pull requests)
+We're using cargo vet. See the [/supply-chain](https://github.com/wasi-gfx/webidl2wit/tree/main/supply-chain) directory.
 
 ### Sustainable Contributor Base
 
