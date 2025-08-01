@@ -183,7 +183,7 @@ We're using cargo vet. See the [/supply-chain](https://github.com/wasi-gfx/webid
 >
 > The TSC may waive the above contributor base requirements under certain conditions. In particular, the TSC may decide to adopt crucial upstream dependencies of existing Bytecode Alliance projects that are otherwise effectively unmaintained or only have a single maintainer.
 
-webidl2wit is maintained by @MendyBerger and @vados-cosmonic. See https://github.com/wasi-gfx/webidl2wit/graphs/contributors.
+webidl2wit is maintained by @MendyBerger and @vados-cosmonic. See also https://github.com/wasi-gfx/webidl2wit/graphs/contributors.
 
 ### Version Control
 
