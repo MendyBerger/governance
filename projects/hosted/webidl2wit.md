@@ -34,7 +34,7 @@ Given that webidl2wit is already used in wasi:webgpu, as well as in browser.wit 
 >
 > Code reviews have a demonstrable impact on the quality of source code by catching bugs early, determining the best possible implementation, and fostering trust within the community. Timely responses let contributors know that their work is valued and encourages further contribution.
 
-This project will adopt code reviews going forward.
+This project has recently adopted code reviews. See our [recently merged PRs](https://github.com/wasi-gfx/webidl2wit/pulls?q=is%3Apr+is%3Aclosed).
 
 ### Code of Conduct
 
@@ -45,7 +45,7 @@ This project will adopt code reviews going forward.
 >
 > Having a code of conduct is crucial for creating a positive and respectful environment in any organization, community, or group. It serves as a set of guidelines that outline expected behavior and ethical standards for all members involved.
 
-[github.com/wasi-gfx/webidl2wit/blob/main/CODE_OF_CONDUCT.md](https://github.com/wasi-gfx/webidl2wit/blob/main/CODE_OF_CONDUCT.md)
+See our [CODE_OF_CONDUCT.md](https://github.com/wasi-gfx/webidl2wit/blob/main/CODE_OF_CONDUCT.md)
 
 ### Continuous Integration Testing
 
